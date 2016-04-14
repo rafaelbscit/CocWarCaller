@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ActivityStyle"
+    tools:context="br.com.battista.cocwarcaller.MainActivity">
+
+    <fragment
+        android:id="@+id/fgmMainToolbar"
+        android:name="br.com.battista.cocwarcaller.ToolbarFragment"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        tools:layout="@layout/fragment_toolbar" />
+
+    <RelativeLayout style="@style/BodyStyle">
+
+    </RelativeLayout>
+
+
+</LinearLayout>

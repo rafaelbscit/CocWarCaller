@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">CocWarCaller</string>
+    <string name="app_name">Clash of Clans - War Caller</string>
+    <string name="copyright">Battista Software @ 2016</string>
+    <string name="btn_start">Entre!!!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_about">Info</string>
+    <string name="label_title_about">Clash Of Clans\nWar Caller</string>
+    <string name="version">1.0.0</string>
+
 </resources>
